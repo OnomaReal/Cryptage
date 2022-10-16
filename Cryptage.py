@@ -20,7 +20,7 @@ class Ui_Form(object):
                     f_sortie.write(b)
                     i = i + 1
         #Fin du programme de cryptage/décryptage
-        
+# Génération de l'UI        
     def setupUi(self, Form):
         Form.setObjectName("Form")
         Form.resize(400, 300)
@@ -97,7 +97,7 @@ class Ui_Form(object):
         self.label_3.setText(_translate("Form", "Nom du fichier de sortie"))
         self.label_4.setText(_translate("Form", "Clé de chiffrement"))
         self.pushButton.setText(_translate("Form", "Chiffrement"))
-
+#Fin de l'UI
 
 if __name__ == "__main__":
     import sys
