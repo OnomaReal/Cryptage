@@ -3,6 +3,7 @@
 
 # Execution
 
+## Version no UI
 ### Cryptage
 Le programme permet dans un premier temps de **crypter** un fichier
 
@@ -14,8 +15,11 @@ Le programme permet dans un premier temps de **crypter** un fichier
 
 Puis lorsque ce fichier est crypté, vous pouvez utiliser la clé de chiffrement afin de **déchiffrer** le  fichier sélectionné.
 
+## UI Version
 
+Très intuitif, il faut simplement remplir les champs correspondant
 
+![image](https://user-images.githubusercontent.com/112429397/196034697-458475dc-3207-4b5a-9127-be05fd0f2cc2.png)
 
 
 
