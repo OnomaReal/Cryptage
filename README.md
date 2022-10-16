@@ -23,6 +23,6 @@ Très intuitif, il faut simplement remplir les champs correspondant
 
 
 
-
+NB: Attention le fichier a crypter doit être dans le même dossier que "Cryptage".
 >Version 1.0
 
