@@ -19,7 +19,7 @@ Puis lorsque ce fichier est crypté, vous pouvez utiliser la clé de chiffrement
 
 Très intuitif, il faut simplement remplir les champs correspondant
 
-![image](https://user-images.githubusercontent.com/112429397/196034697-458475dc-3207-4b5a-9127-be05fd0f2cc2.png)
+![image](https://user-images.githubusercontent.com/112429397/196037452-5616763f-bbc1-4ce7-a153-b67c6ed1a184.png)
 
 
 
